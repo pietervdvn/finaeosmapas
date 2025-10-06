@@ -9,6 +9,7 @@ Fina en de kaarten  - cooperatieve kaarten ontdekken.
 
 Tekst: Pablo Sanxiao
 Illustraties: Iria Iglesias
+Vertaling: Pieter Vander Vennet (OpenStreetMap België)
 Uitgever: The GHANDALF Association
 
 Dit werk is beschikbaar onder de Internationale Creative Commons 4.0 licentie
@@ -186,8 +187,6 @@ We vinden het ook erg belangrijk om de waarden van Vrije Software en open cultuu
 
 Als je wilt meewerken aan het inzetten van technologie om de samenleving te verbeteren, dan helpt de GHANDALF-vereniging je graag met alles wat we kunnen.
 
-
-Vertaling door pietervdvn voor OpenStreetMap België
 
 OpenStreetMap België (https://osm.be) is de Belgische afdeling van OpenStreetMap-vrijwilligers. Naast het updaten van de kaart, komen we af en toe samen, bespreken we hoe we de kaart in België kunnen verbeteren, verwelkomen we nieuwe bijdragers, organiseren we lezingen of bieden we professionele ondersteuning. Ook jij bent meer dan welkom!
 

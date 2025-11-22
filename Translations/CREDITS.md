@@ -36,4 +36,12 @@ Kudos for all of them!
 - Joan Maspons 
 - Héctor Ramos
 
+### sq_AL
+
+-  Alen Tabaku
+
+### nl_BE
+
+- Pieter Vander Vennet
+
 

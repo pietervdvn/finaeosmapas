@@ -13,8 +13,7 @@ Vertaling: Pieter Vander Vennet (OpenStreetMap België)
 Uitgever: The GHANDALF Association
 
 Dit werk is beschikbaar onder de Internationale Creative Commons 4.0 licentie
-met naamsvermelding en gelijk delen
-(CC BY-SA 4.0 International)
+met naamsvermelding en gelijk delen (CC BY-SA 4.0 International)
 Voor meer informatie over de licentie, bezoek
 https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
@@ -25,7 +24,7 @@ vrij beschikbaar onder de Open Database License (openstreetmap.org/copyright)
 Eerste versie: januari 2025
 Illustraties, design en layout door studio Gnomo
 
-GeFiennceerd met publieke middelen: AMTEGA (Xunta de Galicia)
+Gefinanceerd met publieke middelen: AMTEGA (Xunta de Galicia)
 
 ## Page 3
 
@@ -114,7 +113,7 @@ Vroeger zaten er veel fouten in de kaarten, maar ook veel juiste details van de 
 
 Als Fien thuis is, rent ze naar haar kamer om uit te zoeken hoe kaarten gemaakt worden. Eén website trekt haar aandacht.
 
-Die website heet OpenStreetMap. “Een wereldkaart gemaakt door mensen zoals jij die door iedereen gebruikt mag worden” staat erbij.
+Die website heet OpenStreetMap. “Een wereldkaart gemaakt door mensen zoals jij en die door iedereen gebruikt mag worden” staat erbij.
 
 ## Page 16
 
@@ -141,7 +140,7 @@ Zie je? Mijn schoolgebouw ontbrak, maar ik heb mijn schoolgebouw toegevoegd. En 
 
 ## Page 19
 
-De hele middag voegen ze samen allerlei plaatsen to aan de kaart. Hier en daar verbeteren ze kleine foutjes die ze tegenkomen.
+De hele middag voegen ze samen allerlei plaatsen toe	 aan de kaart. Hier en daar verbeteren ze kleine foutjes die ze tegenkomen.
 
 Fien helpt haar oma om een account te maken. Zo kan ze ook met haar eigen computer plaatsen toevoegen.
 

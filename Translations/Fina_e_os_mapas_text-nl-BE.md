@@ -140,7 +140,7 @@ Zie je? Mijn schoolgebouw ontbrak, maar ik heb mijn schoolgebouw toegevoegd. En 
 
 ## Page 19
 
-De hele middag voegen ze samen allerlei plaatsen toe	 aan de kaart. Hier en daar verbeteren ze kleine foutjes die ze tegenkomen.
+De hele middag voegen ze samen allerlei plaatsen toe aan de kaart. Hier en daar verbeteren ze kleine foutjes die ze tegenkomen.
 
 Fien helpt haar oma om een account te maken. Zo kan ze ook met haar eigen computer plaatsen toevoegen.
 
